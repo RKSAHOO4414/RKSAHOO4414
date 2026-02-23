@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Java, Web Dev**
 
-- 🌱 I’m currently learning **MCA, Coding and Web development.**
+- 🌱 I’m currently learning **M-Tech, Coding and Web development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
